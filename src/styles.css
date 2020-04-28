@@ -1,4 +1,15 @@
+html, body{
+  font-size: 16px;
+}
 .App {
   font-family: sans-serif;
   text-align: center;
+}
+.chartContainer{
+ display: flex;
+  flex-flow: column nowrap;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+
 }
